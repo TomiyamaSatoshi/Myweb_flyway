@@ -1,0 +1,10 @@
+INSERT INTO qualifications (qualification_name, qualification_get_date) VALUES ('オラクル認定技術者制度(オラクルマスター)Bronze', '2016/06/03');
+INSERT INTO qualifications (qualification_name, qualification_get_date) VALUES ('LPIC レベル 1', '2016/07/12');
+INSERT INTO qualifications (qualification_name, qualification_get_date) VALUES ('Oracle Certified Java Programmer Bronze SE 7 / 8', '2017/05/03');
+INSERT INTO qualifications (qualification_name, qualification_get_date) VALUES ('Oracle Certified Java Programmer Silver SE 8', '2017/09/11');
+INSERT INTO qualifications (qualification_name, qualification_get_date) VALUES ('Oracle Certified Java Programmer Gold SE 8', '2017/11/15');
+INSERT INTO qualifications (qualification_name, qualification_get_date) VALUES ('Java プログラミング能力認定試験 2 級', '2018/02/14');
+INSERT INTO qualifications (qualification_name, qualification_get_date) VALUES ('Python 3 エンジニア認定基礎試験', '2018/03/20');
+INSERT INTO qualifications (qualification_name, qualification_get_date) VALUES ('OSS-DB Silver', '2018/11/13');
+INSERT INTO qualifications (qualification_name, qualification_get_date) VALUES ('PHP7 技術者認定試験 初級', '2020/06/23');
+INSERT INTO qualifications (qualification_name, qualification_get_date) VALUES ('PHP5 技術者認定試験 準上級', '2020/08/03');
