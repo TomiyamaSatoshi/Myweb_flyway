@@ -1,5 +1,5 @@
 CREATE TABLE contact(
- contact_id int AUTO_INCREMENT NOT NULL PRIMARY KEY,
+ contact_id SERIAL NOT NULL PRIMARY KEY,
  name VARCHAR(64) NOT NULL,
  mail_address VARCHAR(128) NOT NULL,
  contact_title VARCHAR(128),
